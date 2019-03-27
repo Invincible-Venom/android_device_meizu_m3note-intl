@@ -1,8 +1,8 @@
-# device_meizu_m3note-intl
+# android_device_meizu_m3note-intl
 Meizu m3 note cm 12.1 Tree
 
 
-# Meizu M3 Note - Unofficial CyanogenMod 12.1 /AOSP 
+# Meizu M3 Note - CyanogenMod 12.1 /AOSP 
 This device tree is for building of Cyanogenmod 12.1 and Android 5.1 Lollipop based ROMs.
 
 # About Device
